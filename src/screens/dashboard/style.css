@@ -1,0 +1,14 @@
+.geral {
+  flex-direction: row;
+}
+.coluna_esquerda {
+  float: left;
+  width: 60%;
+}
+.coluna_direita {
+  float: right;
+  width: 30%;
+}
+.button_result {
+  background-color: #cecece;
+}
