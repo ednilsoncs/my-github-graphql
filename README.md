@@ -43,3 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Você vai conseguir visualizar os erros no console do navegador.
 - A págna não precisa ser atualizada para visualizar as mudanças<br/>
   que foram feita no código.
+
+## :smirk_cat: Artigo
+Não esqueça de ler meu artigo
+[artigo](https://medium.com/@ednilsoncardososantos/iniciando-estudos-de-graphql-com-react-js-7285db8db54f).
