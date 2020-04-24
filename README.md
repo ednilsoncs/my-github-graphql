@@ -2,11 +2,10 @@
 
 ## Detalhes do site:
 ### Projeto
-<p> Nossa aplicação não é muito complexa: conterá apenas duas querys.</p>
-<p> Uma para fazer pesquisa dos repositórios no Github e outra para trazer</p>
-<p> os detalhes desse repositório. </p>
-<br/>
-<p>Para efeito didático tentei montar em uma arquitetura que seja simples <br/> 
+<p> Nossa aplicação não é muito complexa: conterá apenas duas querys.<br/>
+ Uma para fazer pesquisa dos repositórios no Github e outra para trazer<br/>
+ os detalhes desse repositório.<br/>
+ Para efeito didático tentei montar em uma arquitetura que seja simples <br/> 
    de entender e de implementar.</p>
 
 ## Funcionalidades:
