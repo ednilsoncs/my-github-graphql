@@ -45,5 +45,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   que foram feita no código.
 
 ## :smirk_cat: Artigo
-Não esqueça de ler meu artigo
+Não esqueça de ler meu
 [artigo](https://medium.com/@ednilsoncardososantos/iniciando-estudos-de-graphql-com-react-js-7285db8db54f).
