@@ -41,4 +41,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :page_facing_up: Detalhes de implementação:
 - O site esta consumindo a api Graphql do github.
 - Você vai conseguir visualizar os erros no console do navegador.
-- A págna não precisa ser atualizada para visualizar as mudanças que foram feita no código.
+- A págna não precisa ser atualizada para visualizar as mudanças<br/>
+  que foram feita no código.
