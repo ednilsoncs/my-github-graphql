@@ -1,4 +1,4 @@
-# Projeto criado durante a criação do artigo postado no medium
+# Meu github
 
 ## 💻 Projeto
 <p> Nossa aplicação não é muito complexa: conterá apenas duas querys.<br/>
